@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Html,Css,Python OOP,Aiogram,Telegram bt**
+- 💬 Ask me about **Html,Css,Python OOP,Aiogram,Telegram bot**
 
 - 📫 How to reach me **dxonniyozov@gmail.com**
 
