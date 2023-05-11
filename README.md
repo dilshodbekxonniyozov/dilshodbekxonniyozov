@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilshodbek Xonniyozov</h1>
 <h3 align="center">Python Web Developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django Rest Framewrok**
 
-- 💬 Ask me about **Html,Css,Python OOP,Aiogram,Telegram bot**
+- 💬 Ask me about **Html,Css,Python OOP,Aiogram,Telegram bot,Django,Django Rest Framework,Flask,FastApi,HavalApi,Reddis**
 
 - 📫 How to reach me **dxonniyozov@gmail.com**
 
